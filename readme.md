@@ -1,1 +1,1 @@
-*Vanalla Node.js REST API*
+*Vanalla Node.js REST API.*
